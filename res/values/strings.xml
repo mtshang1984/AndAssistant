@@ -4,5 +4,20 @@
     <string name="app_name">AndAssistant</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <string-array name="search_type">
+        <item>网页</item>
+        <item>问答</item>
+        <item>学术</item>
+        <item>百科</item>
+        <item>社交</item>
+        <item>购物</item>
+        <item>下载</item>
+        <item>装修</item>
+        <item>口碑</item>
+        <item>旅游</item>
+        <item>健康</item>
+    </string-array>
 
 </resources>
