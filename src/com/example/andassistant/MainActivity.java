@@ -18,8 +18,6 @@ import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.SearchView.OnQueryTextListener;
 import android.widget.Spinner;
-import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends Activity implements OnItemSelectedListener,
 		OnQueryTextListener {
